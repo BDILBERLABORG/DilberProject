@@ -1,3 +1,6 @@
+## Hey Bahadir.. Lets add scientific cals too ##
+
+
 #Scott Snow
 #Comp 141, Homework 7
 #Python Calculator (calculator.py)
